@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/niejunfeng/demo/issues"
   },
-  "homepage": "https://github.com/niejunfeng/demo#readme"
+  "homepage": "https://github.com/niejunfeng/demo#readme",
+  "dependencies": {
+    "webpack": "^5.19.0",
+    "webpack-cli": "^4.4.0"
+  }
 }
